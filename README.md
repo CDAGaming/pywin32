@@ -12,7 +12,7 @@ This is the readme for the Python for Win32 (pywin32) extensions, which provides
 
 See [CHANGES.txt](https://github.com/mhammond/pywin32/blob/master/CHANGES.txt) for recent notable changes.
 
-Only Python 3 is supported. If you want Python 2 support, you want build `228`.
+Only Python 3 and above is supported. If you want Python 2 support, you want build `228`.
 
 ## Support
 
